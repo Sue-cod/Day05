@@ -1,4 +1,4 @@
-function main () {
+function main() {
     // Only change code below this line
     var lastName = "Tesla";
     lastLetterOfLastName = lastName[lastName.length -1];
